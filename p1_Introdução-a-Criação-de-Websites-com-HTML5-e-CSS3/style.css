@@ -48,3 +48,9 @@ body {
 a{
     color: rgb(81, 127, 143);
 }
+
+.contact-list{
+    list-style-type: none;
+    padding-left: 1.5%;
+    
+}
