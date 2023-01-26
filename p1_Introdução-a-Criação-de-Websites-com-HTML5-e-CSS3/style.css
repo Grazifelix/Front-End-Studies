@@ -1,0 +1,10 @@
+
+
+#title, .subtitle, .post-title, .contact {
+    color: rgb(81, 127, 143);
+}
+
+.post-title{
+    font-size: 16px;
+    font-style: italic;
+}
